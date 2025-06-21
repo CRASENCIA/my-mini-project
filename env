@@ -1,0 +1,2 @@
+DATABASE_URL=postgresql://fake:fake@localhost:5432/fake_db
+SESSION_SECRET=testsecret
